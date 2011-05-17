@@ -1,0 +1,10 @@
+INSERT INTO persona VALUES (null,'Merys Teresa','Marcano Acuña','16996396','mmarcano@mppee.gob.ve');
+INSERT INTO persona VALUES (null,'Gabriela Alejandra','Ilarreta Reyes','17144060','gilarreta@mppee.gob.ve');
+INSERT INTO persona VALUES (null,'Elvio Ramón','Chávez Gonzalez','84409348','echavez@mppee.gib.ve');
+INSERT INTO persona VALUES (null,'Santiago Jesús','Zarate López','17974037','szarate@mppee.gob.ve');
+INSERT INTO persona VALUES (null,'Hannye Coromoto','Halls Ylarreta','13823311','hhalls@mppee.gob.ve');
+INSERT INTO persona VALUES (null,'Alejandro','Garrido Mota','19505644','agarrido@mppee.gob.ve');
+INSERT INTO persona VALUES (null,'Eduardo Alejandro Gabriel','Muñoz','17560626','eagmunoz@mppee.gob.ve');
+INSERT INTO persona VALUES (null,'Joel Enrique','Gomez Birto','14174747','jgomez@mppee.gob.ve');
+INSERT INTO persona VALUES (null,'Darwin Aglais','Padrino Quiroga','12210879','dpadrino@mppee.gob.ve');
+INSERT INTO persona VALUES (null,'Juan Miguel','Paredes Angel','14929837','jparedes@mppee.gob.ve');
