@@ -33,3 +33,13 @@ CREATE TABLE instituciones_personas (
     FOREIGN KEY(id_institucion) REFERENCES instituciones(id)
 );
 
+CREATE TABLE curso_participantes (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id_persona INTEGER, 
+    id_curso INTEGER, 
+    desde VARCHAR, 
+    hasta VARCHAR, 
+    lugar VARCHAR, 
+    FOREIGN KEY(id_persona) REFERENCES persona(id),
+    FOREIGN KEY(id_curso) REFERENCES curso(id)
+);
