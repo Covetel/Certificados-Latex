@@ -25,3 +25,17 @@ INSERT INTO curso VALUES (
     'Un curso de desarrollo con el lenguaje de programación Perl a nivel básico.',
     'catalyst02'
 );
+
+INSERT INTO curso VALUES (
+    null,
+    'Curso Técnico OpenERP',
+    'Un curso para el desarrollo de aplicaciones con el framework OpenObject',
+    'openerptec'
+);
+
+INSERT INTO curso VALUES (
+    null,
+    'Desarrollo de Aplicaciones web con Plone: Nivel Básico',
+    'Un curso de desarrollo con el lenguaje de programación Python',
+    'plone01'
+);
