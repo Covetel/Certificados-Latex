@@ -15,7 +15,7 @@
 
     [% FOREACH c IN certificados %]
         \thispagestyle{empty}
-        \includegraphics[scale=0.8]{/Users/elsanto/covetel}
+        \includegraphics[scale=0.8]{/home/xyklex/git/covetel/Certificados-Latex/images/covetel}
 		\vspace{1cm}
         \begin{center}
     
@@ -53,13 +53,13 @@
 
         \vspace{1cm}
 
-        Caracas 20 de Marzo del 2010
+        Caracas 1  de Diciembre del 2013
         
-        \vspace{3cm}
+        \vspace{2.5cm}
 
         -------------------------------------------\\
-        {\bfseries Walter A. Vargas M.}\\
-        Coordinador General\\
+        {\bfseries Carlos Maldonado}\\
+        Coordinador Instancia de Educación\\
         Cooperativa Venezolana de Tecnologías Libres R.S.
         
         \end{center}

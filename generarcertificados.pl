@@ -16,23 +16,19 @@ my @personas_id = map {$_->id} @personas;
 
 # Agrego a todas las personas a los cursos.
 
+#$schema->resultset('CursoParticipante')->dictar_curso(
+#    "12", 
+#    "16 de Agosto de 2013",
+#    5, 
+#    @personas_id
+#);
+
 $schema->resultset('CursoParticipante')->dictar_curso(
-    "24 de Enero", 
-    "24 de Febrero de 2011",
-    1, 
+    "18", 
+    "22 de Noviembre de 2013",
+    6, 
     @personas_id
 );
 
-$schema->resultset('CursoParticipante')->dictar_curso(
-    "28 de Febrero", 
-    "13 de Marzo de 2011",
-    2, 
-    @personas_id
-);
-
-$schema->resultset('CursoParticipante')->dictar_curso(
-    "04 de Abril", 
-    "15 de Abril de 2011",
-    3, 
-    @personas_id
-);
+#$schema->resultset('CursoParticipante')->certificados(5);
+$schema->resultset('CursoParticipante')->certificados(6);
